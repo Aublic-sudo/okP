@@ -1212,6 +1212,10 @@
         "api": "https://brainqapi.classx.co.in"
     },
     {
+        "name": "bhainskipathshala",
+        "api": "https://bhainskipathshalaapi.akamai.net.in"
+    },
+    {
         "name": "Brclasses",
         "api": "https://brclassesapi.classx.co.in"
     },
