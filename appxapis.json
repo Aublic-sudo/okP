@@ -5632,6 +5632,10 @@
         "api": "https://nitinsharmamathsapi.classx.co.in"
     },
     {
+        "name": "NirmitAcademy",
+        "api": "nimratacademyapi.akamai.net.in"
+    },
+    {
         "name": "Nobelforensics",
         "api": "https://nobelforensicsapi.classx.co.in"
     },
