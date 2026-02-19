@@ -5633,7 +5633,7 @@
     },
     {
         "name": "NirmitAcademy",
-        "api": "nimratacademyapi.akamai.net.in"
+        "api": "https://nimratacademyapi.akamai.net.in"
     },
     {
         "name": "Nobelforensics",
