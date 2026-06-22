@@ -5380,6 +5380,10 @@
         "api": "https://mymentorappapi.classx.co.in"
     },
     {
+        "name": "mockmaster",
+        "api": "https://mockmasterapi.akamai.net.in"
+    },
+    {
         "name": "Mynotes",
         "api": "https://mynotesapi.classx.co.in"
     },
